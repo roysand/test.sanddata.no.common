@@ -240,3 +240,6 @@ src/WebUI/ClientApp/package-lock.json
 
 # VS Code
 **/.vscode/
+
+nuget.config
+
