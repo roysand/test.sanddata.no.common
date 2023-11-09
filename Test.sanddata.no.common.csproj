@@ -8,11 +8,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="src\" />
-      <Folder Include="src\Application\Common\Interface\" />
-    </ItemGroup>
-
-    <ItemGroup>
     </ItemGroup>
 
     <ItemGroup>
